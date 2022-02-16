@@ -22,15 +22,34 @@ step 9 - set up github pages - file should be in github, in github go to setting
 step 10 - test the github page - copy the URL and check if it works 
 
 Glossary
-Branch
-Clone
-Commit
-Fetch
-GIT
-Github
-Merge
-Merge Conflict
-Push
-Pull
-Remote
-Repository
+
+Branch - a set of code that is under development without affecting the main branch code
+
+Clone - copies an existing repository 
+
+Commit - saves your work and logs changes you've made
+
+Fetch - add changes from the remote repository without commiting those changes
+
+GIT - version control software
+
+Github - source coding host service
+
+Merge - takes changes from one branch and applies them to another
+
+Merge Conflict - unable to fix difference in code between commits
+
+Push - send commited changes to a remote repository 
+
+Pull - fetching changes and merging them
+
+Remote - a repository or branch that is hosted on a server
+
+Repository - contains a projects files
+
+References
+
+intro to github and webstorm slides
+
+https://docs.github.com/en/github/getting-started-with-github/github-glossary 
+
